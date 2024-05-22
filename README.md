@@ -22,6 +22,3 @@ For the park management team at IcyWorld tasked with analyzing customer behavior
 
 -Manage gift catalog and reward points.
 
-# Accessing the UI
-The user interface for the IcyReward system can be accessed via the following links:
-
